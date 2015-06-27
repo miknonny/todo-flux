@@ -1,3 +1,3 @@
-## Todolist with React.
+## Todolist with React & Flux.
 
 - A basic example of using react and flux.
